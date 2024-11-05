@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">application </string>
+    <string name="okay">Okay</string>
+    <string name="next">Next</string>
+    <string name="hello">Hello,</string>
+    <string name="enter_your_name_here">jemali baliashvili</string>
+    <string name="todo">TODO</string>
+    <string name="submit">Submit</string>
+    <string name="enter_some_text">your name</string>
+    <string name="Okay">okay</string>
+</resources>
